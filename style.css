@@ -1,0 +1,39 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f5f1e8;
+    color: #3d2b1f;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #8b5a2b;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #8b5a2b;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
